@@ -1,0 +1,1 @@
+# IOS-UICollectionViewDynamicCellSize![Simulator Screen Shot - iPhone 13 - 2022-03-18 at 10 17 16](https://user-images.githubusercontent.com/68848964/158931264-7c902bc5-7d69-47ae-ab68-1d2408216f09.png)
